@@ -1,0 +1,29 @@
+{
+  "name": "IOTA testlist Default",
+  "logoURI": "https://raw.githubusercontent.com/iota-community/iota-tokenlists/main/logos/0x0000000000000000000000000000000000000000/isc.png",
+  "keywords": ["iscp", "defi", "community", "iota"],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1074,
+      "address": "0x0000000000000000000000000000000000000000",
+      "decimals": 18,
+      "name": "ISC",
+      "symbol": "TEST",
+      "logoURI": "https://raw.githubusercontent.com/iota-community/iota-tokenlists/main/logos/0x0000000000000000000000000000000000000000/isc.png"
+    },
+    {
+      "chainId": 1074,
+      "address": "0x9Ad6C38BE94206cA50bb0d90783181662f0Cfa10",
+      "decimals": 18,
+      "name": "FishToken",
+      "symbol": "FISH",
+      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9Ad6C38BE94206cA50bb0d90783181662f0Cfa10/logo.png"
+    }
+  ],
+  "timestamp": "2021-12-14T00:00:00+00:00"
+}
