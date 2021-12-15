@@ -1,21 +1,27 @@
 {
-  "name": "IOTA testlist Default",
-  "logoURI": "https://raw.githubusercontent.com/iota-community/iota-tokenlists/main/logos/0x0000000000000000000000000000000000000000/isc.png",
-  "keywords": ["iscp", "defi", "community", "iota"],
+  "name": "IOTA Testlist",
+  "timestamp": "2021-12-14T00:00:00+00:00",
   "version": {
     "major": 0,
     "minor": 1,
-    "patch": 0
+    "patch": 1
   },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/iota-community/iota-tokenlists/main/logos/0x0000000000000000000000000000000000000000/isc.png",
+  "keywords": [
+    "isc",
+    "community",
+    "defi",
+    "iota"
+  ],
   "tokens": [
     {
       "chainId": 1074,
       "address": "0xAab066ab14DB37569Dd1C1817459B1602514Ca8A",
-      "decimals": 18,
-      "name": "MetaverseTNS",
       "symbol": "META",
+      "name": "MetaverseTNS",
+      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/iota-community/iota-tokenlists/main/logos/0xAab066ab14DB37569Dd1C1817459B1602514Ca8A/logo.png"
     }
-  ],
-  "timestamp": "2021-12-14T00:00:00+00:00"
+  ]
 }
