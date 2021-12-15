@@ -18,11 +18,11 @@
     },
     {
       "chainId": 1074,
-      "address": "0x9Ad6C38BE94206cA50bb0d90783181662f0Cfa10",
+      "address": "0xAab066ab14DB37569Dd1C1817459B1602514Ca8A",
       "decimals": 18,
-      "name": "FishToken",
-      "symbol": "FISH",
-      "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x9Ad6C38BE94206cA50bb0d90783181662f0Cfa10/logo.png"
+      "name": "Metaverse Trillionaires",
+      "symbol": "META",
+      "logoURI": "https://raw.githubusercontent.com/iota-community/iota-tokenlists/main/logos/0xAab066ab14DB37569Dd1C1817459B1602514Ca8A/logo.png"
     }
   ],
   "timestamp": "2021-12-14T00:00:00+00:00"
