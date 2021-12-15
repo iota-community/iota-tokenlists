@@ -10,14 +10,6 @@
   "tokens": [
     {
       "chainId": 1074,
-      "address": "0x0000000000000000000000000000000000000000",
-      "decimals": 18,
-      "name": "ISC",
-      "symbol": "TEST",
-      "logoURI": "https://raw.githubusercontent.com/iota-community/iota-tokenlists/main/logos/0x0000000000000000000000000000000000000000/isc.png"
-    },
-    {
-      "chainId": 1074,
       "address": "0xAab066ab14DB37569Dd1C1817459B1602514Ca8A",
       "decimals": 18,
       "name": "MetaverseTNS",
